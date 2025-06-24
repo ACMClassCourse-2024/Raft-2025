@@ -4,9 +4,9 @@
 
 ## Reference
 
-[MIT 6.5840 Lab 2](https://pdos.csail.mit.edu/6.824/labs/lab-raft.html)
+[MIT 6.5840 Lab 2](https://pdos.csail.mit.edu/6.824/labs/lab-raft1.html)
 
-[MIT 6.5840 Lab 3](https://pdos.csail.mit.edu/6.824/labs/lab-kvraft.html)
+[MIT 6.5840 Lab 3](https://pdos.csail.mit.edu/6.824/labs/lab-kvraft1.html)
 
 ## Introduction
 
@@ -180,4 +180,3 @@ For each lab, we will run the test for  $400$ times. Let $S$ be the total score 
 		</tr>
 	</tbody>
 </table>
-
